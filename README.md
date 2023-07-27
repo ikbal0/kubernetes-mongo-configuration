@@ -1,4 +1,4 @@
-# kubernetes mongodb & mongo-express depl configuration
+#kubernetes mongodb & mongo-express depl configuration
 
 
 ###  Starts a local Kubernetes cluster
